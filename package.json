@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "got": "^14.4.2"
+    "got": "^11.1.3"
   }
 }

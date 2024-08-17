@@ -1,4 +1,4 @@
-const got = require("got");
+const got = require('got');
 
 
-console.log("Hello World");
+console.log('Hello World!');
