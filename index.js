@@ -37,9 +37,9 @@ async function Monitor(productLink){
             let stockText = availabilityDiv.childNodes[1].innerText.toLowerCase();
 
             if(stockText == "out of stock"){
-                console.log("OUT OF STOCK");
+                console.log(productName + " OUT OF STOCK");
             }else{
-                console.log("IN STOCK");
+                console.log(productName + " IN STOCK");
             }
         }
     }
